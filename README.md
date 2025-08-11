@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Kirubalini 👋
 
-<!--
-**Kirubalini2011/Kirubalini2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Junior Web Developer** | HTML • CSS • JavaScript  
+🎯 Passionate about building clean, responsive websites for small businesses.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design & Mobile-First Development
+- Basic Git & GitHub  
+- Eager to learn WordPress, Vue.js, and more
+
+---
+
+## 📂 Projects
+Here are a few of my works:
+
+- **[Portfolio Website](https://radiant-maamoul-ee8e6f.netlify.app/) – Personal portfolio showcasing my work.**  
+*(More coming soon!)*
+
+---
+
+## 📬 Connect with Me
+- 🌐 [Portfolio Website](https://radiant-maamoul-ee8e6f.netlify.app/)
+- 📧 Email: weboxyl37@gmail.com  
+
+---
+
+⭐ *"Learning every day and building one project at a time."*
